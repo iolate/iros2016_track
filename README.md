@@ -14,7 +14,7 @@ Gazebo model for [iROS 2016 Autonomous Drone Racing](http://ris.skku.edu/home/ir
 In .world file, add below lines in <world> tag
 
     <include>
-      <uri>model://iros_track</uri>
+      <uri>model://iros2016_track</uri>
     </include>
 
 
