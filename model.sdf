@@ -121,14 +121,6 @@
         </geometry>
       </visual>
     </link>
-    <link name="gate_16">
-      <pose>6.75 -10.75 0  0 0 -1.570796</pose>
-      <visual name="visual">
-        <geometry>
-          <mesh><uri>model://iros2016_track/gates/16.dae</uri></mesh>
-        </geometry>
-      </visual>
-    </link>
     <link name="gate_17">
       <pose>10.0 -9.5 0  0 0 -0.1</pose>
       <visual name="visual">
